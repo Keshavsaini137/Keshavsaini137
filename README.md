@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Keshav Saini a Software Engineer at Maplesoftware
+- 👋 Hi, I’m Keshav Saini a Senior Software Engineer at Newgen
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on Node, Flutter, Unity
+- 💞️ I’m looking to collaborate on Flutter, Unity or Java
 - 📫 Keshavsaini555@gmail.com / Keshavsaini137@gmail.com
 
 <!---
